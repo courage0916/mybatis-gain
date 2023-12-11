@@ -1,4 +1,4 @@
-# mybatis-gian
+# mybatis-gain
 中文介绍：
 使用 mybatis 插件实现一些增益方法<br/>
 主要涉及：<br/>
